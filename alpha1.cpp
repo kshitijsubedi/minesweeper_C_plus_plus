@@ -1,3 +1,5 @@
+// Made by Kshitij Subedi
+
 # include<iostream>
 #include<cstdlib>
 #include<ctime>
